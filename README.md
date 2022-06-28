@@ -12,7 +12,7 @@
 
 ## Hi 👋, my name is alexander.huang
 
-<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://github.com/Anzz-bot/Anzz-bot/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
 ##### I am a C/C++/Go developer with 2+ years of industry experience building applications.
 
