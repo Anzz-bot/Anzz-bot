@@ -2,7 +2,7 @@
 
   ### [Hi, HERE! 👋](https://github.com/Anzz-bot)
 
-I am **xiaolong.huang**, an authentic Chinese boy from Hei Longjiang. I usually surf the Internet by the alias alexander.huang, except Gmail. This is the place where I opensource stuff and break things..
+I am **xiaolong.huang**, an authentic Chinese boy from Hei Longjiang. I usually surf the Internet by the alias alexander.huang, except Gmail. This is the place where I opensource stuff and break things.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Anzz-bot&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff">
 
