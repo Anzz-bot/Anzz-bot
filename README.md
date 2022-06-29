@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I play games at times!
 
 ##### Online Presence
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anzz-bot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.3.0/icons/gmail.svg' alt='dev' height='40'>](alexander.huangai77@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xiaolon42343142) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anzz-bot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.3.0/icons/gmail.svg' alt='dev' height='40'>](alexander.huangai77@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Anzz_bot) 
 ---
 <div>
   <a href="https://github.com/Anzz-bot">
